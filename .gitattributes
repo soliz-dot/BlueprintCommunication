@@ -2,11 +2,5 @@
 * text=auto
 
 # Example folder using LFS
-Content/BPCommunication/** filter=lfs diff=lfs merge=lfs -text
-Content/BPCommunication/Blueprints/** filter=lfs diff=lfs merge=lfs -text
-Content/BPCommunication/Maps/** filter=lfs diff=lfs merge=lfs -text
-Content/BPCommunication/UMG/** filter=lfs diff=lfs merge=lfs -text
-Content/Collections/** filter=lfs diff=lfs merge=lfs -text
-Content/Developers/** filter=lfs diff=lfs merge=lfs -text
-Content/LearningKit_Games/** filter=lfs diff=lfs merge=lfs -text
+
 
